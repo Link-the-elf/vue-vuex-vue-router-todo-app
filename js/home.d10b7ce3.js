@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktodo_app"]=self["webpackChunktodo_app"]||[]).push([[962],{260:function(n,u,e){e.r(u),e.d(u,{default:function(){return p}});var r=e(6768);function t(n,u){return(0,r.uX)(),(0,r.CE)("h1",null,"Home")}var o=e(1241);const a={},c=(0,o.A)(a,[["render",t]]);var p=c}}]);
+//# sourceMappingURL=home.d10b7ce3.js.map
